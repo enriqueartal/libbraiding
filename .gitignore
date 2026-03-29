@@ -3,7 +3,7 @@ lib/braiding.o
 lib/braiding.lo
 lib/cbraid.o
 lib/cbraid.lo
-lib/libbraiding.lo
+lib/libbraiding.la
 lib/libcbraid.a
 .depends
 braiding
